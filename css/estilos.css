@@ -1,11 +1,8 @@
 body
 {
-
-background: #242121;
-color: #f517a0;
-
+    background: black;
+    color: yellow;
 }
-
 {
     color: rgb(241, 11, 222);
     text-align: center;
@@ -13,11 +10,28 @@ color: #f517a0;
     font-size: 16px;
     margin: 0;
     padding: 0;
+}
+
+#cabecera
+{
+  background: #df0000;
+  box-shadow: 0px 2px 50px 0px
+  rgba(red, rgb(66, 192, 66), blue, alpha);
+  color: aliceblue;
+  font-weight: bold;
+  margin-block-end: 0cm;
+  padding: 0.5em;
 }   
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid darkorange;
     margin: 0 auto;
@@ -27,3 +41,7 @@ color: #f517a0;
     font-size: 20px;
 
 }  
+#post
+{
+    padding: 1em;
+}
