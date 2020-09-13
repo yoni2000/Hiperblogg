@@ -1,5 +1,8 @@
 body
-
+{
+    background: black;
+    color: hotpink;
+}
 {
     color: rgb(241, 11, 222);
     text-align: center;
