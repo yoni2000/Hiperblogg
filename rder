@@ -1,0 +1,78 @@
+* [33mcommit 3c3dc6e066c64837f9b6f155c4b4be6ae40b990c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sun Sep 13 13:49:27 2020 +0200
+[31m|[m 
+[31m|[m     Volvi ha una tipografia menos controvercial
+[31m|[m 
+* [33mcommit 8636635099de38696176fa79bab8c0f214d78b15[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sun Sep 13 13:41:30 2020 +0200
+[31m|[m 
+[31m|[m     Volvimos ha corregir el background de fondo color negro
+[31m|[m 
+* [33mcommit 59df132a3de21668ff139eef7ce4f2a85d4d197a[m
+[31m|[m Merge: ba8d356 fb9006e
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sun Sep 13 13:34:26 2020 +0200
+[31m|[m 
+[31m|[m     Organize el merce conflict
+[31m|[m 
+* [33mcommit ba8d35636aa2d630edf0e9902b032327544b0a25[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sun Sep 13 13:01:11 2020 +0200
+[31m|[m 
+[31m|[m     Agregado el contenido adicvional del blog y una mejor tipografia
+[31m|[m 
+* [33mcommit 472aa0d726f4f5902ba9b994d49d1890c8a57588[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sun Sep 13 11:31:20 2020 +0200
+[31m|[m 
+[31m|[m     commit al master del blogpost en su version mas reciente
+[31m|[m 
+* [33mcommit c42aed7b68038c0e0218f7506884840dcaac1076[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sat Sep 12 10:45:41 2020 +0200
+[31m|[m 
+[31m|[m     Reemplazo de una version por otra de la historia
+[31m|[m 
+* [33mcommit 96313a1c4c63af67f626e145d9482be51bfdc738[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sat Sep 12 10:36:35 2020 +0200
+[31m|[m 
+[31m|[m     modifique historia.txt
+[31m|[m 
+* [33mcommit f56c962e1396856c00db65c06b8bf88b4f346c65[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Sat Sep 12 10:25:13 2020 +0200
+[31m|[m 
+[31m|[m     Cambio  ha estilos css
+[31m|[m 
+* [33mcommit c69b0af1ee948a2b1008c7abed0a4c0fd2306159[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Thu Sep 10 20:35:28 2020 +0200
+[31m|[m 
+[31m|[m     Cambio de maestria
+[31m|[m 
+* [33mcommit 92aa05e96fb2758677d16e486e2f5f16da191c6c[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Thu Sep 10 20:34:26 2020 +0200
+[31m|[m 
+[31m|[m     Cambio de vida
+[31m|[m 
+* [33mcommit 9b868d2b148d7d1a3d034f2f553bcc223e1dc981[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Thu Sep 10 20:31:23 2020 +0200
+[31m|[m 
+[31m|[m     Arranco mi proyecto real con html y css
+[31m|[m 
+* [33mcommit 7837c94bea466c408c58e172240d83d615d49569[m
+[31m|[m Author: yoni <yonigira@yahoo.com>
+[31m|[m Date:   Tue Sep 8 21:49:57 2020 +0200
+[31m|[m 
+[31m|[m     cambios al archivo de historia para reflejar la edad correcta
+[31m|[m 
+* [33mcommit fb139291b9e8ff8bd58639dd29d1ed29370a8123[m[33m ([m[1;32miss53[m[33m)[m
+  Author: yoni2000 <69465012+yoni2000@users.noreply.github.com>
+  Date:   Tue Sep 8 21:19:29 2020 +0200
+  
+      Este es el primer commit de este archivo
