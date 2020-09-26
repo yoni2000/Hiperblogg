@@ -1,40 +1,45 @@
 body
 {
     background: black;
-    color: rgb(255, 0, 128);
+    color: rgb(253, 0, 127);
 }
 {
     color: rgb(241, 11, 222);
     text-align: center;
     font-family:"Arial"
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+    font-size: 500px;
+    margin: 10;
+    padding: 20;
 }
 
 #cabecera
 {
-  background: #df0000;
+  background: #9c397b;
   box-shadow: 0px 2px 50px 0px
   rgba(red, rgb(66, 192, 66), blue, alpha);
   color: aliceblue;
   font-weight: bold;
   margin-block-end: 0cm;
-  padding: 0.5em;
-}   
+  padding:10.5mm ;
+} 
+#cabecera #logo  
+{
+    width: 300px;
+    vertical-align: middle;
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 2.8em;
 }
 #container
 {
-    width: 70%;
-    padding: 0;
+    width: 80%;
+    padding: 30;
     text-align: left;
     border: 1px solid darkorange;
-    margin: 0 auto;
+    margin: 30 auto;
  }
 #container height: 1px;
 {
@@ -43,5 +48,6 @@ body
 }  
 #post
 {
+    background: #080808;
     padding: 1em;
 }
