@@ -41,13 +41,19 @@ body
     border: 1px solid darkorange;
     margin: 30 auto;
  }
-#container height: 1px;
+#container h1
 {
-    font-size: 20px;
+    font-size: 20 px;
 
 }  
 #post
 {
     background: #080808;
     padding: 1em;
+}
+#footer
+{
+    background: coral;
+    color: rgb(105, 93, 25);
+    text-align: center;
 }
